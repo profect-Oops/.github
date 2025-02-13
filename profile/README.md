@@ -1,12 +1,39 @@
-## Hi there 👋
+# PROFECT-1Team - Oops!
 
-<!--
+이 프로젝트는 
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 팀명
+
+**Oops!**
+
+**객체지향 프로그래밍을 실천하는 개발자들**
+
+팀원 한 명 한 명이 객체(Object)이며, 이 객체들이 모여 하나의 시스템을 만들어갑니다.
+우리는 때때로 실수(Oops)를 할 수도 있지만, 객체지향적 사고(OOP)를 통해 문제를 해결하고 성장해 나갑니다. 각자의 개성과 역량을 존중하며, 하나의 목표를 향해 나아가는 우리 팀은 다양한 객체들이 유기적으로 연결되어 조화를 이루는 하나의 시스템입니다.
+
+우리는 협력과 도전을 통해 더욱 빛나는 성과를 만들어가고자 합니다
+
+---
+
+## 프로젝트 소개
+
+
+![프로젝트 소개 이미지](./images/)
+
+---
+
+## 지원 기능
+
+  
+---
+
+## 📚 기술 스택
+
+ 
+---
+
+## 팀원 소개 :busts_in_silhouette:
+
+---
